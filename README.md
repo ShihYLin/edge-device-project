@@ -8,9 +8,27 @@ This project demonstrates how an edge device was utilized to collect plant data,
 
 Data Collection: An edge device was deployed to monitor plant conditions, capturing real-time sensor data.
 
+**Methodology**
+![methodology](methodology.png)
+
+**Sensor Connection**
+![sensor-connection](edge_device.png)
+
+**Experiment Setup**
+![experiment-setup](experiment_setup.png)
+
+**Object Detection using Yolo V4**
+![object-detection](object_detection.png)
+
 Data Processing: The collected data was cleaned, processed, and formatted for analysis.
 
 Data Visualization: The processed data was imported into Tableau, where various visualizations were created to identify trends and insights.
+
+**Climate Trend**
+![climate-trend](data_overtime.png)
+
+**Real-Time Dashboard**
+![realtime-dashboard](realtime_dashboard.png)
 
 Insights & Interpretation: The generated visualizations helped in assessing plant health, environmental conditions, and potential improvements.
 
